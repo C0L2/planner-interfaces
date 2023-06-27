@@ -1,5 +1,5 @@
 export interface iProvider {
-    hourlyRate; number,
+    hourlyRate: number,
     staffID: number,
     currencyId: number
 }
