@@ -1,4 +1,4 @@
-export interface roviderMinDto {
+export interface providerMinDto {
     hourlyRate: number,
     staffID: number,
     currencyId: number
