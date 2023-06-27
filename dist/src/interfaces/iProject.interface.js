@@ -1,3 +1,3 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-//# sourceMappingURL=Subscribtion.interface.js.map
+//# sourceMappingURL=iProject.interface.js.map

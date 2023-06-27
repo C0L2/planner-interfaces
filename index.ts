@@ -1,1 +1,14 @@
 // export { SubscribtionDto } from "./src/front-end/Subscribtion.interface";
+export { iSubscribtion } from "./src/interfaces/iSubscribtion.interface";
+export { iCreateUser } from "./src/interfaces/iCreateUser.interface";
+export { iReturnUser } from "./src/interfaces/iReturnUser.interface";
+export { iClient } from "./src/interfaces/iClient.interface";
+export { iExpense } from "./src/interfaces/iExpense.interface";
+export { iProviderInvoice } from "./src/interfaces/iProviderInvoice.interface";
+export { iCreateInvoice } from "./src/interfaces/iCreateInvoice.interface";
+export { iUpdateInvoice } from "./src/interfaces/iUpdateInvoice.interface";
+export { iUpdateInvoiceprovider } from "./src/interfaces/iUpdateInvoiceprovider.interface";
+export { iProjectProvider } from "./src/interfaces/iProjectProvider.interface";
+export { iProject } from "./src/interfaces/iProject.interface";
+export { iReturnProject} from "./src/interfaces/iReturnProject.interface";
+export { iStaff} from "./src/interfaces/iStaff.interface";

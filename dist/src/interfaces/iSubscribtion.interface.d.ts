@@ -1,4 +1,4 @@
-export interface SubscribtionDto {
+export interface iSubscribtion {
     name: string;
     items: number;
     cost: number;
