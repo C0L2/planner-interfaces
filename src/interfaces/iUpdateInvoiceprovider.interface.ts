@@ -3,5 +3,5 @@ export interface iUpdateInvoiceprovider {
  hours: number,
  hourlyRate: number,
  invoiceId: number,
- currencyid: number
+ currencyId: number
 }

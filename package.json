@@ -1,6 +1,6 @@
 {
   "name": "planner-interfaces",
-  "version": "1.2.0",
+  "version": "1.2.2",
   "description": "Interfaces used in planner web-app",
   "main": "dist/index.js",
   "scripts": {

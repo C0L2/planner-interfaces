@@ -11,6 +11,7 @@ export { iProjectProvider } from "./src/interfaces/iProjectProvider.interface";
 export { iProject } from "./src/interfaces/iProject.interface";
 export { iReturnProject } from "./src/interfaces/iReturnProject.interface";
 export { iStaff } from "./src/interfaces/iStaff.interface";
+export { iProvider } from "./src/interfaces/iProvider.interface";
 export { AssignedProvidersDto } from "./src/interfaces/asignedProviders.interface";
 export { asignProviderToInvoice, InvoiceProviderDto, } from "./src/interfaces/asignProviderToInvoice.interface";
 export { AuthentificationDto } from "./src/interfaces/Authentification.interface";
